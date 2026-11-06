@@ -1,15 +1,4 @@
-/**
- * Web Search Mining Project - Main Application Shell
- *
- * Clean project structure with separate modules for:
- * 1. Document Loading (documentLoader.ts)
- * 2. Tokenization (tokenization.ts)
- * 3. Text Normalization / Case Folding with Porter Stemming & Lemmatization (textNormalization.ts)
- * 4. Inverted Index Construction (invertedIndex.ts)
- * 5. Wildcard Processing with Permuterm Index (wildcardProcessor.ts)
- * 6. Query Processing (queryProcessor.ts)
- * 7. Frontend GUI with search input box, Search button, and read-only result area (SearchInterface.tsx)
- */
+
 
 import React, { useState, useMemo, useEffect } from 'react';
 import {
