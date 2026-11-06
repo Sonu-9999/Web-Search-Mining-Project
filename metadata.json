@@ -1,0 +1,6 @@
+{
+  "name": "Web Search Mining Engine",
+  "description": "Information retrieval engine featuring document loading, tokenization, text normalization, inverted index construction, wildcard processing via permuterm indexing, and query processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
